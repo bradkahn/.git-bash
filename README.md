@@ -10,9 +10,13 @@ Clone this repo into your home directory:
 
 Run the init script:
 
-`source ./git-bash/git-bash.sh`
+`source ~/git-bash/git-bash.sh`
 
-voilà!
+**voilà!**
+
+(optional) make the git-bash folder hidden:
+
+`mv ~/git-bash ~/.git-bash`
 
 ### Note
 
