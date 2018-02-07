@@ -16,4 +16,6 @@ voilà!
 
 ### Note
 
-_citation-needed_
+Adapted from: https://github.com/git/git/tree/master/contrib/completion
+
+Free video course to learn Git and GitHub: 'How to Use Git and GitHub' https://classroom.udacity.com/courses/ud775/
