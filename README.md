@@ -10,7 +10,7 @@ Clone this repo into your home directory:
 
 Run the init script:
 
-`source ~/git-bash/git-bash.sh`
+`cd git-bash; source ./git-bash.sh`
 
 **voilà!**
 
