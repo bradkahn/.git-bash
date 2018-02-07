@@ -3,7 +3,7 @@
 # GIT BASH
 #---------------------------------
 # Enable tab completion
-source ~/.git_bash/.git-completion.bash
+source ~/.git-bash/.git-completion.bash
 
 # colors!
 bold_green="\[\033[01;32m\]"
