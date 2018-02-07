@@ -1,4 +1,4 @@
-if grep -Fxq "# GIT BASH" ./.bashrc
+if grep -Fxq "# GIT BASH" ~/.bashrc
 then
     echo "Seems like git-bash is already added."
 else
