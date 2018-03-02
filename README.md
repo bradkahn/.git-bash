@@ -6,7 +6,7 @@ Add Git completion and prompt to your bash shell.
 
 Clone this repo into your home directory:
 
-`git clone https://github.com/bradkahn/git-bash.git ~/.git-bash`
+`git clone https://github.com/bradkahn/.git-bash.git`
 
 Run the init script:
 
